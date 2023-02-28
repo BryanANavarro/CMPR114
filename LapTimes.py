@@ -2,15 +2,15 @@
 # CMPR114 - Python
 # February 27, 2023
 
-currentLap = 0.0
-fastestLap = 0.0
-slowestLap = 0.0
-total = 0.0
+currentLap = 0
+fastestLap = 0
+slowestLap = 0
+total = 0
 
 laps = int(input("\nHow many laps have you ran? "))
 
 for times in range(laps):
-	currentLap = float(input("\nEnter the time of the lap: "))
+	currentLap = int(input("\nEnter the time of the lap: "))
 	
 	if times == 0:
 		fastestLap = currentLap
