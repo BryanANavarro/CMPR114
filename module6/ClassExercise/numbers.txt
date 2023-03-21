@@ -1,6 +1,0 @@
-
-The 1st number is 1
-The 2nd number is 2
-The 3rd number is 3
-The average is 2.0
-The total number is 6

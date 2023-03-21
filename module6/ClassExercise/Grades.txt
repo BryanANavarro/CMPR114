@@ -1,6 +1,0 @@
-
-Average grade: 67.5
-Letter grade: D
-
-Average grade: 83.5
-Letter grade: B
