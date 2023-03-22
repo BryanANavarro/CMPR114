@@ -1,6 +1,6 @@
-1000.0
-1000.0
-1000.0
-1000.0
-1000.0
-88000.0
+Sale Day # 1 : 1000.0
+Sale Day # 2 : 1000.0
+Sale Day # 3 : 1000.0
+Sale Day # 4 : 1000.0
+Sale Day # 5 : 1000.0
+Salary plus bonus : 88000.0
