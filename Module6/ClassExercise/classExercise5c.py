@@ -7,7 +7,7 @@ def sales():
 	
 	salary = float(input("\nEnter salary: "))
 	num_days = int(input("\nEnter the days of sales: "))
-	sales_file = open('sales.txt', 'w')
+	sales_file = open('sales.txt', 'a')
 	sum = 0.0
 	for count in range(1, num_days + 1):
 
