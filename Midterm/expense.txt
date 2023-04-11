@@ -1,0 +1,5 @@
+Rent: 500.0
+Gas: 400.0
+Food: 300.0
+Clothing: 200.0
+Car: 100.0
