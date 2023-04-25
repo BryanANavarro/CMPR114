@@ -1,7 +1,7 @@
 # Bryan Navarro
 # CMPR114 - Python
 # April 17, 2023
-# Homework Assignment 7 - Project #3a
+# Homework Assignment 8 - Project #3a
 
 class RetailItem:
 	def __init__(self, description, units, price):
