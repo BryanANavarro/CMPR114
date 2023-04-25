@@ -1,7 +1,7 @@
 # Bryan Navarro
 # CMPR114 - Python
 # April 17, 2023
-# Homework Assignment 7 - Project #1a
+# Homework Assignment 8 - Project #1a
 
 class Pet:
 	def __init__(self, name, type, age):
