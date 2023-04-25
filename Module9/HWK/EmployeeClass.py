@@ -1,7 +1,7 @@
 # Bryan Navarro
 # CMPR114 - Python
 # April 17, 2023
-# Homework Assignment 7 - Project #2a
+# Homework Assignment 8 - Project #2a
 
 class Employee:
 	def __init__(self, name, ID, department, title):
