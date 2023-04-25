@@ -1,7 +1,7 @@
 # Bryan Navarro
 # CMPR114 - Python
 # April 17, 2023
-# Homework Assignment 7 - Project #1b
+# Homework Assignment 8 - Project #1b
 
 import PetClass
 
